@@ -1,5 +1,5 @@
 # 💫 About Me:
-im dusk, i like to quench my thirst of knowledge<br>for that i can sometimes do even things that arent good for me<br>i like reading, doesnt matter novels, mangas, comics, and<br>i sometimes listen to music<br>my hobbies well, they're endless<br>i've quit more stuff than others have tried<br>and im probably the most unique being anyone will ever meet in their life
+im Dusk, i like to quench my thirst of knowledge<br>for that i can sometimes do even things that arent good for me<br>i like reading, doesnt matter novels, mangas, comics, and<br>i sometimes listen to music<br>my hobbies well, they're endless<br>i've quit more stuff than others have tried<br>and im probably the most unique being anyone will ever meet in their life
 
 
 ## 🌐 Socials:
