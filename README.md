@@ -8,9 +8,9 @@ im Dusk, i like to quench my thirst of knowledge<br>for that i can sometimes do 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 ShitHub Stats:
-![](https://ShitHub-readme-stats.shion.dev/api?username=DistantPromise&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://ShitHub-readme-stats.shion.dev/api?username=EtherealInsanity&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=DistantPromise&theme=nightowl&hide_border=true)<br/>
-![](https://ShitHub-readme-stats.shion.dev/api/top-langs/?username=DistantPromise&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://ShitHub-readme-stats.shion.dev/api/top-langs/?username=EtherealInsanity&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-ShitHub-readme.vercel.app/api?type=horizontal&theme=radical)
