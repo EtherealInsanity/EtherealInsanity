@@ -2,7 +2,6 @@
 
 ### Someone trying to outgrow his nature,<br>I like to quench my thirst of knowledge<br>for that I can sometimes do even things that aren't good for me.<br>I like reading, doesnt matter novels, mangas, comics, and<br>I sometimes listen to music.<br>My hobbies well, they're endless.<br>I've quit more stuff than others have tried and,<br>I'm probably the most unique being anyone will ever meet in their life.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EtherealInsanity&label=Profile views&color=0e75b6&style=flat" alt="EtherealInsanity" /> </p>
 
 - 🔭 I'm currently working on **an Offline reading app while actively learning so at one point AI is the one assisting me and not the other way around.**
 
